@@ -1,0 +1,25 @@
+#customers {
+    font-family: "Courier New", Arial, Helvetica, sans-serif;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#customers td, #customers th {
+    font-size: 1em;
+    border: 1px solid #6e0d25;
+    padding: 3px 7px 2px 7px;
+}
+
+#customers th {
+    font-size: 1.1em;
+    text-align: left;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: #98e2c6;
+    color: #000;
+}
+
+#customers tr.alt td {
+    color: #000;
+    background-color: #bbc7ce;
+}
